@@ -1,4 +1,3 @@
-
 ![profile_banner](https://your-image-link-here.com/banner.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Uh-X3L&label=Profile%20views&color=0e75b6&style=flat)
@@ -61,13 +60,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Uh-X3L&theme=aura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uh-X3L&theme=aura&hide_title=false&layout=compact&langs_count=10&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
----
-
-## **🛠️ Projects & Contributions**
-🔗 **Pinned Repos:**  
-- 🚀 [**Databricks & AI Project**](https://github.com/uh-x3l/databricks-ai) - Exploring ML pipelines in Databricks  
-- 💡 [**Crypto Data Analytics**](https://github.com/uh-x3l/crypto-data) - Analyzing blockchain data with Python  
 
 ---
 
