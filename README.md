@@ -32,7 +32,7 @@
 - 🌱 I'm currently learning: **Advanced Databricks, Machine Learning in Azure, Web3 Analytics**  
 - 💬 Ask me about: **Databricks, Azure, AI, Python, Blockchain Data Engineering**  
 - 💼 Work & Company: Open to collaborations & projects!  
-- 💡 Fun fact: **I love triathlon training and problem-solving!**  
+- 💡 Fun fact: **I love Outdoor Sports**  
 
 ---
 
