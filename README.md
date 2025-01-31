@@ -12,9 +12,9 @@
 </div>
 
 **<h3 align="left">🌍 About Me:</h3>**  
-🔹 Data Engineer with a strong passion for **Azure, Databricks, AI, and Crypto**  
-🔹 Experienced in **ETL Pipelines, Python, SQL, PySpark, and Machine Learning**  
-🔹 Actively learning **advanced Databricks and AI for blockchain applications**  
+🔹 Data Engineer with a strong passion for **Data Engineering, Python, AI, and Crypto**  
+🔹 Experienced in **ETL Pipelines, Python, SQL, PySpark, and Machine Learning/AI**  
+🔹 Learning **advanced Databricks, HFT, DeFi, Rust
 🔹 Exploring **decentralized data solutions and analytics in Web3**  
 
 ---
