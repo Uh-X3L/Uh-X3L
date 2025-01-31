@@ -14,7 +14,6 @@
 🔹 Data Engineer with a strong passion for **Data Engineering, Python, AI, and Crypto**  
 🔹 Experienced in **ETL Pipelines, Python, SQL, PySpark, and Machine Learning/AI**  
 🔹 Learning **advanced Databricks, HFT, DeFi, Rust**
-
 🔹 Exploring **decentralized data solutions and analytics in Web3**
 
 ---
