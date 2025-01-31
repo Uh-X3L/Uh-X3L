@@ -35,23 +35,38 @@
 
 ---
 
+
 ## **💯 Technical Skills**  
 
-### **📌 Programming Languages:**  
+### 📌 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **📌 Cloud & Big Data:**  
+### 📌 **Cloud & Big Data**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### **📌 Data Engineering:**  
+### 📌 **Data Engineering**
 ![ETL](https://img.shields.io/badge/ETL-0E75B6?style=for-the-badge&logo=data&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-FFA500?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### 📌 **Infrastructure as Code (IaC)**
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM%20Templates-FF7F50?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 📌 **DevOps & CI/CD**
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📌 **Data Analytics & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
