@@ -51,7 +51,6 @@
 ### 📌 **Data Engineering**
 ![ETL](https://img.shields.io/badge/ETL-0E75B6?style=for-the-badge&logo=data&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-FFA500?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### 📌 **Infrastructure as Code (IaC)**
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -77,11 +76,27 @@
 
 ---
 
-## **📚 Certifications**
-✅ **Official Advanced Databricks Course**  
-✅ **Microsoft Certified: Azure Data Engineer**  
-✅ **Machine Learning on Google Cloud**  
-✅ **DeepLearning.AI TensorFlow Developer**  
+## 🏆 **Certifications**
+[![Fabric Analytics Engineer](https://img.shields.io/badge/Fabric%20Analytics-Associate-blue)](https://www.credly.com/users/your-certification-link)
+[![Azure Data Engineer](https://img.shields.io/badge/Azure-Data%20Engineer-blue)](https://www.credly.com/users/your-certification-link)
+[![Azure AI Engineer](https://img.shields.io/badge/Azure-AI%20Engineer-purple)](https://www.credly.com/users/your-certification-link)
+[![Databricks Lakehouse](https://img.shields.io/badge/Databricks-Lakehouse-red)](https://www.credly.com/users/your-certification-link)
+[![Machine Learning GCP](https://img.shields.io/badge/Google%20Cloud-ML-orange)](https://www.credly.com/users/your-certification-link)
+
+### Full Certification List:
+- **Fabric Analytics Engineer Associate** *(Microsoft)*
+- **Azure Data Engineer Associate** *(Microsoft)*
+- **Azure AI Engineer Associate** *(Microsoft)*
+- **Build a natural language processing solution with Azure AI Language** *(Microsoft)*
+- **Create an intelligent document processing solution with Azure AI Document Intelligence** *(Microsoft)*
+- **Develop generative AI solutions with Azure OpenAI Service** *(Microsoft)*
+- **Azure AI Fundamentals** *(Microsoft)*
+- **Azure Data Fundamentals** *(Microsoft)*
+- **Azure Fundamentals** *(Microsoft)*
+- **Databricks Lakehouse Fundamentals (2022 - Expired)** *(Databricks)*
+- **DeepLearning.AI TensorFlow Developer (28-12-2020)** *(Coursera)*
+- **Machine Learning on Google Cloud (02-09-2020)** *(Coursera)*
+- **Data Engineering, Big Data and Machine Learning on GCP (08-08-2020)** *(Coursera)*
 
 ---
 
