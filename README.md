@@ -26,7 +26,7 @@
 **<h3 align="left">🔥 Rapid Fire</h3>**  
 
 - ⚙️ I'm currently working on: **Optimizing ETL pipelines for AI-driven data analytics**  
-- 🌱 I'm currently learning: **Advanced Databricks, Machine Learning in Azure, Web3 Analytics**  
+- 🌱 I'm currently learning: **Advanced Databricks, Fabric, DeFi**  
 - 💬 Ask me about: **Databricks, Azure, AI, Python, Blockchain Data Engineering**  
 - 💼 Work & Company: Open to collaborations & projects!  
 - 💡 Fun fact: **I love Outdoor Sports**  
