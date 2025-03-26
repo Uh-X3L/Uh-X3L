@@ -24,11 +24,10 @@
 ---
 
 **<h3 align="left">🔥 Rapid Fire</h3>**  
-
-- ⚙️ I'm currently working on: **Optimizing ETL pipelines for AI-driven data analytics**  
-- 🌱 I'm currently learning: **Advanced Databricks, Fabric, DeFi**  
+- 🔥 Currently transitioning from Azure Data Engineering to Rust Blockchain Development. Committing 1 hour/day to learn and build in public. Follow my journey in rust-journey”
+- ⚙️ I'm currently working on: **Metada Driven Spark Processing ETL Framework in Azure**  
+- 🌱 Also currently learning: **Advanced Databricks, Fabric, DeFi**  
 - 💬 Ask me about: **Databricks, Azure, AI, Python, Blockchain Data Engineering**  
-- 💼 Work & Company: Open to collaborations & projects!  
 - 💡 Fun fact: **I love Outdoor Sports**  
 
 ---
